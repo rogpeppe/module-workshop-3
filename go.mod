@@ -1,1 +1,1 @@
-module github.com/rogpeppe/module-workshop-3
+module github.com/rogpeppe/module-workshop-3/v2
