@@ -1,5 +1,5 @@
 package workshop
 
 func Version() string {
-	return "work in progress"
+	return "v1.0.0"
 }
